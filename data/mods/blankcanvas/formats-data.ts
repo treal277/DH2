@@ -1,322 +1,310 @@
-export const FormatsData: {[k: string]: SpeciesFormatsData} = {
+export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormatsDataTable = {
 	piss: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	snabterra: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	drakkannon: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	arsenstorm: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	badjur: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	vipult: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	fettogre: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	crystuit: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	monmothra: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	wizhazard: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	jackoswarm: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	kadraoke: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	karmalice: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	goblantern: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	hippaint: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	pinaturbo: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	eolikopter: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	mohawtter: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	arachnode: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	blobbiam: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	florustitia: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	primordialith: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	faeruin: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	versalyre: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	capricorrie: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	reversadusa: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	llanfairwyrm: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	frostengu: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	bulionage: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	yamateraph: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	bugswarm: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	freightmare: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	brasspecter: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	copperhead: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	thaumaton: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	sculptera: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	lavalisk: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	martorse: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	parasike: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	massassin: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	searytch: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	jokerpent: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	socknbuskn: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	sleetshell: {
-		tier: "BC UU",
+		tier: "UU",
 	},
 	craggon: {
-		tier: "BC UU",
+		tier: "UU",
 	},
-
 	// Meta B
 	flarenheit: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	groundead: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	actaniathan: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	deadward: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	obaki: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	sylravage: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	twinkaton: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	fausteil: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	geoporka: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	seaode: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	plasmage: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	porcupyre: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	bellolysk: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	tryonite: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	scarachnid: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	geigeramp: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	maldractice: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	serpvoltidae: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	sheepquake: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	bufferfly: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	dastard: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	cottentration: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	sorrowcean: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	psyllapse: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	haarstorm: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	borealis: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	bazhigangquan: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	leechmonner: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	ironcrest: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	odonata: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	hebicikuga: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	devestial: {
-		tier: "BC OU",
+		tier: "OU",
 	},
 	lundicare: {
-		tier: "BC OU",
+		tier: "OU",
 	},
+	// Meta C
 	lyvamp: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	treatmint: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	turvarpega: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	goodjur: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	liftaton: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	triceracotta: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	woolverine: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	combustoad: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	hearthind: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	koiryu: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	pestiligy: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	saxum: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	sascratch: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	guttergar: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	rakasa: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	thermostatic: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	formaldehydra: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	strumorthio: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	ironmike: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	whalestro: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	urslag: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	centaghoul: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	noirwark: {
-		tier: "BC C",
+		tier: "RU",
 	},
 	metarachne: {
-		tier: "BC C",
-	},
-	monsnooze: {
-		tier: "BC C",
-	},
-	oreamoss: {
-		tier: "BC C",
-	},
-	sucrillon: {
-		tier: "BC C",
-	},
-	taranferno: {
-		tier: "BC C",
+		tier: "RU",
 	},
 };

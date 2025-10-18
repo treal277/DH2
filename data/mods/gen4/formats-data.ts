@@ -222,7 +222,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "NU",
 	},
 	machamp: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	bellsprout: {
 		tier: "LC",
@@ -736,7 +736,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "NU",
 	},
 	weavile: {
-		tier: "OU",
+		tier: "(OU)",
 	},
 	teddiursa: {
 		tier: "LC",

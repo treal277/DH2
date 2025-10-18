@@ -954,7 +954,7 @@ export class RandomBLCTeams extends RandomTeams {
 	randomBLCTeam() {
 		this.enforceNoDirectCustomBanlistChanges();
 
-		const seed = this.prng.seed;
+		const seed = this.prng.getSeed();
 		const ruleTable = this.dex.formats.getRuleTable(this.format);
 		const pokemon: RandomTeamsTypes.RandomSet[] = [];
 
@@ -968,11 +968,11 @@ export class RandomBLCTeams extends RandomTeams {
 		// const usePotD = global.Config && Config.potd && ruleTable.has('potd');
 		// const potd = usePotD ? this.dex.species.get(Config.potd) : null;
 
-		const baseFormes: {[k: string]: number} = {};
+		const baseFormes: { [k: string]: number } = {};
 
-		const typeCount: {[k: string]: number} = {};
-		const typeComboCount: {[k: string]: number} = {};
-		const typeWeaknesses: {[k: string]: number} = {};
+		const typeCount: { [k: string]: number } = {};
+		const typeComboCount: { [k: string]: number } = {};
+		const typeWeaknesses: { [k: string]: number } = {};
 		const typeDoubleWeaknesses: { [k: string]: number } = {};
 		const teamDetails: RandomTeamsTypes.TeamDetails = {};
 		let numMaxLevelPokemon = 0;
@@ -1165,11 +1165,3 @@ export class RandomBLCTeams extends RandomTeams {
 }
 
 export default RandomBLCTeams;
-
-
-
-
-
-
-
-
